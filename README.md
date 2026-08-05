@@ -55,7 +55,7 @@ A comprehensive Pokémon application built with React and Node.js. Features incl
 ---
 
 ## 🏆 Achievements
-- Solved **600+ algorithmic challenges**
+- Solved **800+ algorithmic challenges**
 - Built multiple web applications
 - Active in learning and building modern technologies
 
