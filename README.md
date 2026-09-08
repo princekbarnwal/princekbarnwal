@@ -41,6 +41,10 @@ A modern, responsive portfolio website built with React.js featuring dark/light 
 ### ⚡ Pokémon WebApp
 A comprehensive Pokémon application built with React and Node.js. Features include Pokémon search, detailed info, battle stats, and a user-friendly interface. Integrated with PokeAPI for real-time data.  
 
+### 📦 Product Catalog Service
+
+A REST API for managing a product catalog, built with Node.js and Express, backed by a highly-available MongoDB replica set and Redis caching. Fully containerized with Docker, tested with Jest, and deployed via a CI/CD pipeline with GitHub Actions.
+
 ---
 
 ## 📈 GitHub Stats
