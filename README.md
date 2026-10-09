@@ -45,6 +45,10 @@ A comprehensive Pokémon application built with React and Node.js. Features incl
 
 A REST API for managing a product catalog, built with Node.js and Express, backed by a highly-available MongoDB replica set and Redis caching. Fully containerized with Docker, tested with Jest, and deployed via a CI/CD pipeline with GitHub Actions.
 
+### 📝 Codeblogs
+
+A full-stack blogging platform built with React, Node.js, and Express 5, featuring JWT authentication with refresh token rotation, secure rich-text content management, and ownership-based access control. Powered by MongoDB and Redis caching, secured with Zod validation and Helmet, fully containerized with Docker Compose, and tested with Jest and Supertest.
+
 ---
 
 ## 📈 GitHub Stats
