@@ -66,7 +66,8 @@ A full-stack blogging platform built with React, Node.js, and Express 5, featuri
 - Solved **800+ algorithmic challenges**
 - Built multiple web applications
 - Active in learning and building modern technologies
-
+- ### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 ---
 
 ## 📫 Connect with me
