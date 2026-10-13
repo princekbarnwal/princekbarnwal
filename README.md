@@ -187,6 +187,26 @@ flowchart LR
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats/stats-dark.svg">
+    <img src="stats/stats-light.svg" alt="All-time GitHub stats" width="750"/>
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/princekbarnwal?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=princekbarnwal&layout=compact&hide_border=true&hide_title=true&theme=dark&bg_color=00000000&card_width=320">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekbarnwal&layout=compact&hide_border=true&hide_title=true&theme=default&bg_color=00000000&card_width=320" alt="Top languages" height="165"/>
+    </picture>
+  </a>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 I'm open to internships, full-time roles and open-source collaboration. If something here is useful or interesting, a ⭐ on a repo or a follow means a lot.
